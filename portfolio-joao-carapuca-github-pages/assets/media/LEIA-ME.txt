@@ -1,9 +1,0 @@
-Vídeo de apresentação incluído: pitch.mp4
-
-Duração aproximada: 56 segundos.
-Formato: MP4, vídeo H.264 e áudio AAC.
-O leitor e a ligação de download já estão configurados no site.
-
-Se forem acrescentadas legendas WebVTT e uma transcrição fiel, configurar
-videoCaptions e videoTranscript em assets/js/config.js.
-O guião de preparação não substitui a transcrição do que foi gravado.
