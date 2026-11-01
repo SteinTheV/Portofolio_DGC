@@ -47,3 +47,13 @@
 .pitch-links .text-link{font-size:11px}
 .pitch-links .transcript-link{margin:0}
 @media(max-width:680px){.brand-photo{width:37px;height:37px}.profile-portrait{max-width:270px;margin:20px auto 23px}.pitch-card{padding:19px;min-height:0}.pitch-heading{font-size:9px;margin-top:3px}}
+
+/* Galeria com imagem e vídeo de hardware fornecidos pelo autor. */
+.pc-video-frame{overflow:hidden;border:1px solid #cad5cf;border-radius:3px;background:var(--navy);color:#edf4f1}
+.pc-gallery .pc-project-video{display:block;width:100%;height:auto;aspect-ratio:3/4;object-fit:contain;background:#000}
+.pc-gallery .pc-video-frame>a{border:0;border-radius:0}
+.pc-video-frame .pc-photo-action:hover{background:var(--teal)}
+.instagram-contact>div{min-width:0}
+.instagram-contact strong{overflow-wrap:anywhere}
+.contact-section .instagram-contact p{font-size:11px;margin-top:6px}
+@media print{.pc-project-video{display:none!important}}
